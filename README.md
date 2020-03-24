@@ -11,7 +11,7 @@
 
 ## Deploy
 - Backend
-
+  - https://semana-omnistack-11.herokuapp.com/
 - Frontend
 
 
