@@ -7,7 +7,7 @@ const SessionController = require('./controllers/SessionController');
 const routes = express.Router();
 
 //Home
-routes.post('/', (request, response) => {
+routes.get('/', (request, response) => {
     return response.json({
         msg: "Wait! Project in progress."
     })
