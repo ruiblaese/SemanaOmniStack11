@@ -13,6 +13,7 @@
 - Backend
   - https://semana-omnistack-11.herokuapp.com/
 - Frontend
+  - https://semana-omnistack-11.netlify.com/
 
 
 ## Projeto
