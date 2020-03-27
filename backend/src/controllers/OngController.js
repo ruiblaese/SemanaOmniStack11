@@ -25,3 +25,11 @@ module.exports = {
     }
     
 }
+
+async function getOngById(id) {
+
+    return await connection('ongs')
+        .select('*')
+        .where({ 'id': id })
+        .first();
+};
