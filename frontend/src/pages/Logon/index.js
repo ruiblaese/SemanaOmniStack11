@@ -27,7 +27,9 @@ export default function Logon() {
       history.push('/profile')
 
     } catch (error) {
-      alert(`Falha no login, tente novamente!`);
+      alert(`Falha no login, tente novamente!\n\n` +
+        error && error.response && error.response.data && error.response.data.error ?
+        error.response.data.error : '');
     }
 
   }

@@ -34,7 +34,9 @@ export default function Incident() {
       history.push('/profile')
 
     } catch (error) {
-      alert(`Erro no cadastro, tente novamente!`);
+      alert(`Erro no cadastro, tente novamente!\n\n` +
+        error && error.response && error.response.data && error.response.data.error ?
+        error.response.data.error : '');
     }
 
   }
