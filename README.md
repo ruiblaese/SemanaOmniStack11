@@ -6,7 +6,7 @@
   - [nodemon](https://github.com/remy/nodemon#nodemon)
   - [knexjs](http://knexjs.org/)
   - [SQLite](https://www.sqlite.org/docs.html)
-  - [celebrate](https://github.com/arb/celebrate#readme
+  - [celebrate](https://github.com/arb/celebrate#readme)
   - [jest](https://jestjs.io/docs/en/getting-started)
   - [supertest](https://github.com/visionmedia/supertest)
 - ReactJS
