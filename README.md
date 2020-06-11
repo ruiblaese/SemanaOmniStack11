@@ -1,4 +1,14 @@
-# Projeto Semana OmniStack 11
+<h1 align="center">
+    Projeto Semana OmniStack 11
+</h1>
+<p align="center">  
+  <img alt="Made by Rui" src="https://img.shields.io/badge/Made%20by-ruiblaese-%2304D361">
+     
+  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/ruiblaese/semana-omnistack-11">  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ruiblaese/semana-omnistack-11">
+</p>
+
+# 
 
 ## Tecnologias
 - NodeJS
